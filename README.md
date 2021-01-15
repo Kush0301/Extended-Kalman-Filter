@@ -11,7 +11,7 @@ The task at hand was to recursively estimate the state of a mobile platform give
 <p align="left">
 <img width="400" height="300" src="https://github.com/Kush0301/Extended-Kalman-Filter/blob/master/gtruth.png?raw=true">
 </p>
-<p align="right">
+<p align="left">
 <img width="400" height="300" src="https://github.com/Kush0301/Extended-Kalman-Filter/blob/master/gtruth2.png?raw=true">
 </p>
 
