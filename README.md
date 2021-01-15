@@ -8,18 +8,14 @@ The task at hand was to recursively estimate the state of a mobile platform give
 
 ### Ground Truth
 <p float="left">
-  <img src="gtruth.png" width="100" />
-  <img src="gtruth2.png" width="100" /> 
+  <img src="gtruth.png" width="300" />
+  <img src="gtruth2.png" width="300" /> 
 </p>
 
 
 ### Results 
-
-<p align="left">
-<img width="400" height="300" src="https://github.com/Kush0301/Extended-Kalman-Filter/blob/master/ekf.gif?raw=true">
-</p>
-
-<p align="right">
-<img width="400" height="300" src="https://github.com/Kush0301/Extended-Kalman-Filter/blob/master/ekf1.gif?raw=true">
+<p float="left">
+  <img src="ekf.gif" width="300" />
+  <img src="ekf1.gif" width="300" /> 
 </p>
 
