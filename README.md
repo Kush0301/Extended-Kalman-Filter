@@ -8,15 +8,15 @@ The task at hand was to recursively estimate the state and the 2D Trajectory of 
 
 ### Ground Truth
 <p float="left">
-  <img src="gtruth.png" width="300" />
-  <img src="gtruth2.png" width="300" /> 
+  <img src="results/gtruth.png" width="300" />
+  <img src="results/gtruth2.png" width="300" /> 
 </p>
 
 
 ### Results 
 <p float="left">
-  <img src="ekf.gif" width="300" />
-  <img src="ekf1.gif" width="300" /> 
+  <img src="results/ekf.gif" width="300" />
+  <img src="results/ekf1.gif" width="300" /> 
 </p>
 
 
@@ -30,6 +30,6 @@ The objective was to estimate the state and the 3D trajectory of a platform usin
 ### Results
 
 <p float="left">
-  <img src="Ekf_3d.gif" width="400" />
+  <img src="results/Ekf_3d.gif" width="400" />
 </p>
 
