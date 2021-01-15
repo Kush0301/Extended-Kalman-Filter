@@ -9,19 +9,19 @@ The task at hand was to recursively estimate the state of a mobile platform give
 ### Ground Truth
 
 <p align="left">
-<img width="460" height="300" src="https://github.com/Kush0301/Extended-Kalman-Filter/blob/master/gtruth.png?raw=true">
+<img width="400" height="300" src="https://github.com/Kush0301/Extended-Kalman-Filter/blob/master/gtruth.png?raw=true">
 </p>
 <p align="right">
-<img width="460" height="300" src="https://github.com/Kush0301/Extended-Kalman-Filter/blob/master/gtruth2.png?raw=true">
+<img width="400" height="300" src="https://github.com/Kush0301/Extended-Kalman-Filter/blob/master/gtruth2.png?raw=true">
 </p>
 
 ### Results 
 
 <p align="left">
-<img width="460" height="300" src="https://github.com/Kush0301/Extended-Kalman-Filter/blob/master/ekf.gif?raw=true">
+<img width="400" height="300" src="https://github.com/Kush0301/Extended-Kalman-Filter/blob/master/ekf.gif?raw=true">
 </p>
 
 <p align="right">
-<img width="460" height="300" src="https://github.com/Kush0301/Extended-Kalman-Filter/blob/master/ekf1.gif?raw=true">
+<img width="400" height="300" src="https://github.com/Kush0301/Extended-Kalman-Filter/blob/master/ekf1.gif?raw=true">
 </p>
 
